@@ -3,7 +3,7 @@
 [View Here!](https://nbviewer.jupyter.org/github/epatter1/ebay_car_sales/blob/master/Exploring%20Ebay%20Car%20Sales%20Data.ipynb) :eyes:
 
 Here I work with a dataset of used cars from eBay Kleinanzeigen, a [classifieds](https://en.wikipedia.org/wiki/Classified_advertising) section of the German eBay website. 
- > **Goal**: To clean the data and analyze the included used car listings.
+ > ### Goal: To clean the data and analyze the included used car listings.
 
 The dataset was originally scraped and uploaded to Kaggle. A few modifications have been made from the original dataset that was uploaded to [Kaggle](https://www.kaggle.com/orgesleka/used-cars-database/data):
 
