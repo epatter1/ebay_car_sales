@@ -1,11 +1,11 @@
 # German Used Cars on Ebay
 
-[View Here!](https://nbviewer.jupyter.org/github/epatter1/ebay_car_sales/blob/master/Exploring%20Ebay%20Car%20Sales%20Data.ipynb) :eyes:
+**[View Here!](https://nbviewer.jupyter.org/github/epatter1/ebay_car_sales/blob/master/Exploring%20Ebay%20Car%20Sales%20Data.ipynb)** :eyes:
 
-Here I work with a dataset of used cars from eBay Kleinanzeigen, a [classifieds](https://en.wikipedia.org/wiki/Classified_advertising) section of the German eBay website. 
+Here I work with a dataset of used cars from eBay Kleinanzeigen, a **[classifieds](https://en.wikipedia.org/wiki/Classified_advertising)** section of the German eBay website. 
  > ### Goal: To clean the data and analyze the included used car listings.
 
-The dataset was originally scraped and uploaded to Kaggle. A few modifications have been made from the original dataset that was uploaded to [Kaggle](https://www.kaggle.com/orgesleka/used-cars-database/data):
+The dataset was originally scraped and uploaded to Kaggle. A few modifications have been made from the original dataset that was uploaded to **[Kaggle](https://www.kaggle.com/orgesleka/used-cars-database/data)**:
 
 50,000 data points were sampled from the full dataset to ensure code ran quicker. 
 I chose a "dirtier" dataset a bit to more closely resemble what you would expect from a scraped dataset (the version uploaded to Kaggle was cleaned to be easier to work with)
